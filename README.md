@@ -1,7 +1,7 @@
 # Hi, I'm Raphael, but you can call me Cassari 😎
 I am a university student excited by technology at the usp of the computer engineering course, I work as a full-stack developer at the Memorial Group.
 <br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-cassari-6908a51a0/)](https://www.linkedin.com/in/raphael-cassari-6908a51a0/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-cassari-6908a51a0/)](https://www.linkedin.com/in/raphael-cassari/)
 <h2>💻 My Stack and technologies:</h2>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=%20&message=Python&color=yellow&style=for-the-badge&logo=Python&logoColor=black"/>
