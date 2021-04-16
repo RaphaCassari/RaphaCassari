@@ -19,5 +19,5 @@ I am a university student excited by technology at the usp of the computer engin
 
 <h2>🏆 My GitHub Stats:</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCassari&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaCassari&show_icons=true&theme=tokyonight)
