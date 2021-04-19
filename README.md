@@ -1,6 +1,7 @@
 # Hi, I'm Raphael, but you can call me Cassari 😎
 I am a university student excited by technology at the usp of the computer engineering course, I work as a full-stack developer at the Memorial Group.
 <br>
+<br>
 if you’re more interested in my job or a recruiter, call me privately and I’ll grant you access to my private repositories
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-cassari-6908a51a0/)](https://www.linkedin.com/in/raphael-cassari/)
