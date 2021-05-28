@@ -1,5 +1,5 @@
 # Hi, I'm Raphael, but you can call me Cassari 😎
-I am a university student excited by technology at the usp of the computer engineering course, I work as a full-stack developer at the Memorial Group.
+I am a university student excited by technology at the usp of the computer engineering course, I work as a full-stack developer.
 <br>
 <br>
 if you’re more interested in my job or a recruiter, call me privately and I’ll grant you access to my private repositories
