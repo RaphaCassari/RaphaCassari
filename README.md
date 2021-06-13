@@ -24,3 +24,5 @@ if you’re more interested in my job or a recruiter, call me privately and I’
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCassari&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaCassari&show_icons=true&theme=tokyonight)
+
+![Snake animation](https://github.com/RaphaCassari/RaphaCassari/blob/output/github-contribution-grid-snake.svg)
